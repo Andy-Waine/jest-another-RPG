@@ -4,7 +4,7 @@
   "description": "A Command-Line RPG",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Andy-Waine/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/Andy-Waine/jest-another-RPG#readme"
+  "homepage": "https://github.com/Andy-Waine/jest-another-RPG#readme",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
 }
