@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Andy-Waine/jest-another-RPG#readme",
   "dependencies": {
+    "inquirer": "^8.2.0",
     "jest": "^27.4.3"
   }
 }
